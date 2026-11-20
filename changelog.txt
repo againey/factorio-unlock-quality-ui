@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 20. 11. 2026
+  Features:
+    - Initial release
+    - Unlock the quality UI before researching quality modules using a hidden quality
+    - Runtime global setting to toggle the quality UI before actual quality has been researched

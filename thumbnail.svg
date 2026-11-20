@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="150" height="150" viewBox="-75 -75 150 150" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<rect fill="#444" stroke="#000" x="-75" y="-75" width="150" height="150"/>
+	<circle cx="-33" cy="-33" r="32" fill="#3eec57" stroke="black" stroke-width="10" />
+	<circle cx="33" cy="-33" r="32" fill="#c400ff" stroke="black" stroke-width="10" />
+	<circle cx="33" cy="33" r="32" fill="#2495ff" stroke="black" stroke-width="10" />
+	<circle cx="-33" cy="33" r="32" fill="#bcbcbc" stroke="black" stroke-width="10" />
+	<circle cx="0" cy="0" r="32" fill="#ff9500" stroke="black" stroke-width="10" />
+	<g transform="scale(1, 1) translate(0, 0)">
+		<path fill="#efefef" stroke="black" stroke-width="8" stoke-linejoin="miter"
+			d="
+				M -32,-2
+				a 8 8 90 0 1 8,-8
+				l 32,0
+				l 0,-16
+				a 8 8 180 0 0 -16,0
+				a 4 4 90 0 1 -4,4
+				l -8,0
+				a 4 4 90 0 1 -4,-4
+				a 24 24 180 0 1 48,0
+				l 0,16
+				a 8 8 90 0 1 8,8
+				l 0,44
+				a 8 8 90 0 1 -8,8
+				l -48,0
+				a 8 8 90 0 1 -8,-8
+				z
+			"
+		/>
+		<circle cx="0" cy="12" r="10" fill="black" />
+		<line x1="0" y1="12" x2="0" y2="32" stroke="black" stroke-width="10" stroke-linecap="round" />
+	</g>
+</svg>
